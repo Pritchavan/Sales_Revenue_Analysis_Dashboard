@@ -87,8 +87,7 @@ The dataset contains sales transaction records with the following fields:
 
 ## 👨‍💻 Author
 
-**Your Name**
-
+Priti Chavan
 ---
 
 ## ⭐ If you like this project, don't forget to star this repository!
